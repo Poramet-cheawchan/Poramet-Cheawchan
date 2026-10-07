@@ -1,15 +1,7 @@
-<div align="center">
+
 
 #  Hi, I'm Poramet Cheawchan 👋
 ###  Computer Engineering Student | Data Science & AI Enthusiast
-
-```p5js
-while (alive) {
-    code();
-    analyzeData();
-    game();
-    repeat();
-}
 
 📌 About Me
 
