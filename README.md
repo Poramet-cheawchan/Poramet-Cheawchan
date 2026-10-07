@@ -1,51 +1,27 @@
+# 💫 About Me:
+🎓 Education: 3rd Year Computer Engineering Student at Mahanakorn University of Technology (MUT)<br><br>🔭 Current Focus: Data Science, Artificial Intelligence, and Prompt Engineering<br><br>🛠️ Building: Web & Mobile Applications with Modern Tech Stacks<br><br>📈 Interests: Financial Market Analysis (XAU/USD, SMC/ICT Concepts), Gaming, and Software Architecture<br><br>📫 Contact: poramet.cheawchan@gmail.com
 
 
-#  Hi, I'm Poramet Cheawchan 👋
-###  Computer Engineering Student | Data Science & AI Enthusiast
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/poramet-cheawchan-497a203a9?originalSubdomain=th) 
 
-📌 About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=poramet-cheawchan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=poramet-cheawchan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=poramet-cheawchan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🎓 Education: 3rd Year Computer Engineering Student at Mahanakorn University of Technology (MUT)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=poramet-cheawchan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-🔭 Current Focus: Data Science, Artificial Intelligence, and Prompt Engineering
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-🛠️ Building: Web & Mobile Applications with Modern Tech Stacks
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=poramet-cheawchan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-📈 Interests: Financial Market Analysis (XAU/USD, SMC/ICT Concepts), Gaming, and Software Architecture
+---
+[![](https://komarev.com/ghpvc/?username=poramet-cheawchan&icon=10&color=0)](https://visitcount.itsvg.in)
 
-📫 Contact: poramet.cheawchan@gmail.com
-
-🛠️ Tech Stack & Tools
-Languages
-Frameworks & Libraries
-Database & Infrastructure / OS
-Tools & Workflow
-
-
-🚀 Highlighted Projects
-
-MUT Shuttle Bus System
-
-ระบบติดตามและบริการรถรับส่งภายในมหาวิทยาลัยเทคโนโลยีมหานคร
-
-Tech: HTML, CSS, JavaScript, Database
-
-Modern BMI Calculator
-
-เว็บแอปพลิเคชันคำนวณดัชนีมวลกายสไตล์โมเดิร์น
-
-Tech: React, CSS, Vite
-
-Text-to-Prompt Optimizer
-
-ระบบช่วยจัดโครงสร้างและปรับแต่ง Prompt สำหรับ AI Models
-
-Tech: React, Node.js
-
-Linux & Network Labs
-
-คลังสคริปต์และการตั้งค่าระบบ Server บน AlmaLinux 8 / Cisco Packet Tracer
-
-Tech: Bash, Networking, Oracle SQL
-
-📊 GitHub Stats
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
