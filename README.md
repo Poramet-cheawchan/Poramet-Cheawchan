@@ -1,4 +1,5 @@
-#Me:
+Po
+
 🎓 Education: 3rd Year Computer Engineering Student at Mahanakorn University of Technology (MUT)<br><br>🔭 Current Focus: Data Science, Artificial Intelligence, and Prompt Engineering<br><br>🛠️ Building: Web & Mobile Applications with Modern Tech Stacks<br><br>📈 Interests: Financial Market Analysis (XAU/USD, SMC/ICT Concepts), Gaming, and Software Architecture<br><br>📫 Contact: poramet.cheawchan@gmail.com
 
 
